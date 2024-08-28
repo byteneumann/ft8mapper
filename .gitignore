@@ -1,0 +1,7 @@
+config.json
+stations.json
+messages.json
+
+.vscode/
+__pycache__/
+.ft8mapper/
